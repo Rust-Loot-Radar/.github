@@ -12,6 +12,7 @@ With adaptive filters, clean overlay visuals, and optimized performance, it’s 
 
 The Rust Loot Radar is a lightweight, low-latency software built for players who want faster looting cycles and less guesswork.
 It scans item spawns dynamically, marks lootable containers, and displays their distance, rarity, and value tiers on your radar overlay — all without cluttering your screen.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/341d16fa-52f4-472d-8558-43bb8649fe76" />
 
 ---
 
