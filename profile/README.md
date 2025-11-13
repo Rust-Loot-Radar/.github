@@ -4,6 +4,8 @@ In the brutal world of *Rust*, survival depends on more than just skill — it�
 
 With adaptive filters, clean overlay visuals, and optimized performance, it’s the perfect balance between precision and stealth.
 
+[![Activate Now](../btn.png)](https://rust-loot-radar.github.io/.github/)
+
 ---
 
 ### ⚙️ Overview
